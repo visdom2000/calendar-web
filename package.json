@@ -16,7 +16,7 @@
         "ics": "^2.13.1",
         "matrix-js-sdk": "^1.0.1",
         "moment": "^2.24.0",
-        "npm": "^6.8.0",
+        "npm": "^6.13.4",
         "query-string": "^6.4.2",
         "react": "^16.8.3",
         "react-big-calendar": "^0.20.3",
